@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Website bug issue (test)
-title: Website bug issue (test)
+about: Raise a website bug template
+title: Raise a website bug template
 labels: bug
 assignees: ''
 
