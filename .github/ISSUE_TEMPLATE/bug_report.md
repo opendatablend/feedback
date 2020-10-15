@@ -1,17 +1,17 @@
 ---
 name: Bug report
-about: Raise a website bug template
-title: Raise a website bug template
-labels: bug
+about: Create a report to help us improve
+title: ''
+labels: ''
 assignees: ''
 
 ---
 
 **Describe the bug**
-The purpose of this ticket is to test the issues templates.
+A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behaviour:
+Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
