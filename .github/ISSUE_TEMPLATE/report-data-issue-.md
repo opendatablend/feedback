@@ -1,7 +1,7 @@
 ---
 name: 'Data Issue Report '
 about: Create a report to help us improve
-title: ''
+title: Data Issue
 labels: ''
 assignees: ''
 
