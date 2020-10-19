@@ -1,5 +1,5 @@
 ---
-name: Report Data Issue
+name: Report a data issue
 about: Create a report to help us improve
 title: 'Data Issue: <Short description>'
 labels: ''
