@@ -1,6 +1,6 @@
 ---
 name: Suggest a new dataset
-about: Describe the dataset
+about: Describe the proposed dataset
 title: 'New Dataset Suggestion: <Short description>'
 labels: ''
 assignees: ''

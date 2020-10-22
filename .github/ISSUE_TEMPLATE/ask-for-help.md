@@ -1,6 +1,6 @@
 ---
 name: Ask for help
-about: DESCRIBE THIS ISSUE TEMPLATES PURPOSE
+about: Request help from the community
 title: 'Help me: <Short description>'
 labels: ''
 assignees: ''

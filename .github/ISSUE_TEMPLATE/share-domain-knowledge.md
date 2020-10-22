@@ -1,6 +1,6 @@
 ---
 name: Share domain knowledge
-about: Describe this issue template's purpose here.
+about: Provide additional context for a dataset
 title: 'Domain Knowledge: <Short description>'
 labels: ''
 assignees: ''

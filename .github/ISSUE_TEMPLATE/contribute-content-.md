@@ -1,6 +1,6 @@
 ---
 name: 'Contribute content '
-about: Describe this issue template's purpose here.
+about: Provide details of contributed content
 title: 'Contribution: <short description>'
 labels: ''
 assignees: ''
