@@ -1,6 +1,6 @@
 ---
 name: 'Request a new feature '
-about: Suggest an idea for this project
+about: 'Propose new features and enhancement '
 title: 'New feature: <Short description>'
 labels: ''
 assignees: ''

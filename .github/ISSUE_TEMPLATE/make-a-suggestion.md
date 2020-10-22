@@ -1,6 +1,6 @@
 ---
 name: Make a suggestion
-about: Share your thoughts on this project
+about: Share your general ideas
 title: 'Feedback: <Short description>'
 labels: ''
 assignees: ''
