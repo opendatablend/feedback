@@ -1,15 +1,18 @@
 ---
 name: Ask for help
-about: Describe this issue template's purpose here.
+about: DESCRIBE THIS ISSUE TEMPLATES PURPOSE
 title: 'Help me: <Short description>'
 labels: ''
 assignees: ''
 
 ---
 
-**Problem area** 
-*Datasets, Analytics or Website*
+**Where is the problem area?** 
+*Datasets, Analytics or Website. Provide a link if applicable*
 
 
-**Problem description** 
+**Describe the problem you are having ** 
 *Please provide as much detail as possible*
+
+**Additional context**
+*Add any other context about here.*

@@ -7,24 +7,31 @@ assignees: ''
 
 ---
 
-**Dataset name** 
-Enter the dataset name 
+**What is the dataset name?** 
+*Please write the full name of the dataset*
 
-**URL**
-Provide the link to the dataset
+**Where can we find the dataset?**
+*Please provide the URL*
 
-**How long has it been available?**
-Month/year the dataset was created
+**Let us know how long the dataset has been available?**
+*Month/year the dataset was created*
 
-**Updates**
-How frequently is the data updated?
+**How frequently is the data updated?**
+*Daily, Weekly, Monthly, Annually, etc*
 
-**Average size of a file**
+**Give us an idea of the average size of a file**
 
-**Format** 
+**Let us know what format the dataset uses** 
+*Csv, .orc , Parquet*
 
-**Licence**
+**What is the name of the licence? **
+*Please provide the full name of the licence including version*
 
-**Usefulness**
+**Why is this dataset useful?**
+*Please give a brief description*
 
-**Proof of demand**
+**How popular is this dataset?**
+*Please provide proof of demand*
+
+**Additional context**
+*Add any other context about the new dataset here.*
