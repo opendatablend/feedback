@@ -1,6 +1,6 @@
 ---
 name: Report a data issue
-about: Create a report to help us improve
+about: 'Highlight a data quality issue '
 title: 'Data Issue: <Short description>'
 labels: ''
 assignees: ''
